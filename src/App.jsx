@@ -27,7 +27,7 @@ const portfolioData = {
     email: "khanghoang2411@gmail.com",
     phone: "0934778545",
     github: "github.com/Khanghcmut", 
-    linkedin: "https://www.linkedin.com/in/khang-phan-361a192aa/", 
+    linkedin: "www.linkedin.com/in/khang-phan-361a192aa/", 
     orcid: "0009-0007-1578-0977", 
     location: "Ho Chi Minh City, Vietnam",
     about: "I am an energetic, curious researcher passionate about implementing AI into human life. My main research areas are Machine Learning for Life Science, Ubiquitous Computing Technology, and Human-Centric AI Applications. I thrive on solving complex problems involving sensor data, human activity recognition, and healthcare technology."

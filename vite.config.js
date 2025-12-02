@@ -12,5 +12,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './', // <--- IMPORTANT: Add this line!
+  base: '/MYCV_V2', // <--- IMPORTANT: Add this line!
 })
