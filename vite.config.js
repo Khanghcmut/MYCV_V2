@@ -7,7 +7,7 @@
 // })
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite' // Only if using the vite plugin approach, otherwise ignore
+// import tailwindcss from '@tailwindcss/vite' // Only if using the vite plugin approach, otherwise ignore
 
 // https://vitejs.dev/config/
 export default defineConfig({
